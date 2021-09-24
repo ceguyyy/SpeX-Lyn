@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpeX-Lyn You can call me Christian
+- 👋 Hi, I’m @cguy You can call me Christian
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Phyton, C, C++, C# Langauge
 - 💞️ I’m not looking to collaborate on ...
